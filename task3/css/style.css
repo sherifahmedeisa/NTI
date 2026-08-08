@@ -5,10 +5,8 @@ background-color: #860b72c0;
 
 
 .contact-section {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: stretch;
-    margin: 50px auto;
+    display: inline-block;
+    margin: 50px 25%;
     box-shadow: 4px 4px 8px rgba(10,10, 10,10.10);
     width: 50%;
     border-radius: 25px;
@@ -21,12 +19,12 @@ background-color: #860b72c0;
 .left-container {
     width: 50%;
     float: left;
-    padding: 20px;
+    padding: 9.25%;
     box-sizing: border-box;
     background-color: #0cafb4;
     color: #fff;
-border-top-left-radius: 25px;
-border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
    
 }
 .left-container * {
