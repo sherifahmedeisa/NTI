@@ -63,7 +63,9 @@
 position: absolute;
 top: 0%;
 display: none;
+
 }
 .card:hover .overlay{
-    display: block;
+    display: flex;
+
 }
